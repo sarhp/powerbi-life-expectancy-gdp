@@ -24,8 +24,8 @@ Objective: To create visual representations to better understand the relationshi
 ![2](https://github.com/user-attachments/assets/30fcbfed-3885-4d68-a938-fbc625b9d8d8)
 <details>
 
-**<summary>Population overview</summary>**
-🔸Out of a total of 189, countries 31 belongs to the OECD
+**<summary>Population Overview</summary>**
+🔸Out of a total of 189, countries 31 belongs to the OECD.
 
 🔸Asia compromises 59% of the world’s population, totaling 31bn people.
 
@@ -38,11 +38,9 @@ Objective: To create visual representations to better understand the relationshi
 <details>
 
 **<summary>GDP</summary>**
-🔸Over time, trends in life expectancy, GDP, and population growth have evolved significantly
+🔸Over time, trends in life expectancy, GDP, and population growth have evolved significantly.
 
-🔸Around 1990, disparities among regional groups in terms of development became increasingly noticeable. 
-
-🔸Since the 2000s, Asia and the Americas have been narrowing the gap and catching up
+🔸Around the 1990s, disparities among regional groups in terms of development became increasingly noticeable. 
 
 🔸Europe maintained the highest GDP, while Africa recorded the lowest figures across these metrics.
 
@@ -60,7 +58,7 @@ Objective: To create visual representations to better understand the relationshi
 
 **<summary>Population</summary>**
 
-🔸During the 1950s, there was rapid economic growth globally, with Asia beginning to catch up to Europe
+🔸During the 1950s, there was rapid economic growth globally, with Asia beginning to catch up to Europe.
 
 🔸Population growth has been less significant in most regions, except for Asia - starting from the 1950s, Asia experienced exponential population growth, reaching over 70M people.
 
@@ -71,18 +69,30 @@ Objective: To create visual representations to better understand the relationshi
 
 **3/3. Analysis: Finding relationships between GDP per capita and life expectancy.**
 ![3](https://github.com/user-attachments/assets/d5e9b9c6-6655-49e6-bb6d-e39bbfab283e)
+<details>
 
-- Positive correlation between GDP and life expectancy indicates countries with higher GDP tend to have higher life expectancy.
+**<summary>Relationship between GDP Per Cap and Life Expectancy</summary>**
 
-- However, there is a point where improvements in life expectancy remains plateau even GDP continues to increase - this could be due to a higher GDP can improve living conditions like healthcare, but doesn’t necessarily guarantee continued gains in life expectancy beyond a certain level.
+🔸 Positive correlation between GDP and life expectancy indicates countries with higher GDP tend to have higher life expectancy.
 
-- Higher income levels consistently correlate with higher life expectancy across all regions, while lower income levels are associated with reduced life expectancies.
+🔸 However, there is a point where improvements in life expectancy remains plateau even GDP continues to increase - this could be due to a higher GDP can improve living conditions like healthcare, but doesn’t necessarily guarantee continued gains in life expectancy beyond a certain level.
 
-- Europe has the most high-level income earners (note that there’s no data for ‘low’ income).
+</details>
 
-- Africa has fewer high/mid-level income earners, bur larger proportion of low-income earners.
+<details>
 
-- In Asia & Americas, mid-income earners are prevalent, with some high-income earners.
+**<summary>Income</summary>**
+
+🔸 Higher income levels consistently correlate with higher life expectancy across all regions, while lower income levels are associated with reduced life expectancies.
+
+🔸 Europe has the most high-level income earners (note that there’s no data for ‘low’ income).
+
+🔸 Africa has fewer high/mid-level income earners, bur larger proportion of low-income earners.
+
+🔸 In Asia & Americas, mid-income earners are prevalent, with some high-income earners.
+
+</details>
+
 
 <br>
 
