@@ -4,9 +4,7 @@ Objective: To create visual representations to better understand the relationshi
 
 <br><br>
 
-**Animated version (link provided below):**
-
-https://www.youtube.com/watch?v=txCmIPfhGic
+[Animated version - Youtube](https://www.youtube.com/watch?v=txCmIPfhGic)
 
 ![gdp gif](https://github.com/user-attachments/assets/6485f8a2-0d80-4e72-a486-88adc64a6d1b)
 
