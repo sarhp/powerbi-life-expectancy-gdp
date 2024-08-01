@@ -1,3 +1,4 @@
+
 # Life Expectancy and GDP Per Capita Over 210 Years
 
 Objective: To create visual representations to better understand the relationship between life expectancy trends and patterns.
@@ -21,28 +22,50 @@ Objective: To create visual representations to better understand the relationshi
 
 **2/3. Overview**
 ![2](https://github.com/user-attachments/assets/30fcbfed-3885-4d68-a938-fbc625b9d8d8)
-Out of a total of 189, countries 31 belongs to the OECD
-> Asia compromises 59% of the world’s population, totaling 31bn people.
-    
-> Europe accounts for 20%, with population of 10bn.
-    
-> Africa and the Americans have populations of similar sizes.
+<details>
 
-- Over time, trends in life expectancy, GDP, and population growth have evolved significantly.
+**<summary>Population overview</summary>**
+🔸Out of a total of 189, countries 31 belongs to the OECD
 
-- Around 1990, disparities among regional groups in terms of development became increasingly noticeable. 
+🔸Asia compromises 59% of the world’s population, totaling 31bn people.
 
-- Europe consistently led in both life expectancy and GDP, while Africa recorded the lowest figures across these metrics.
+🔸Europe accounts for 20%, with population of 10bn.
 
-- Europe consistently maintained the highest life expectancy globally.
+🔸Africa and the Americans have populations of similar sizes.
 
-- Since the 2000s, Asia and the Americas have been narrowing the gap and catching up.
+</details>
 
-- Europe maintained the highest GDP as well.
+<details>
 
-- During the 1950s, there was rapid economic growth globally, with Asia beginning to catch up to Europe.
+**<summary>GDP</summary>**
+🔸Over time, trends in life expectancy, GDP, and population growth have evolved significantly
 
-- Population growth has been less significant in most regions, except for Asia - starting from the 1950s, Asia experienced exponential population growth, reaching over 70M people.
+🔸Around 1990, disparities among regional groups in terms of development became increasingly noticeable. 
+
+🔸Since the 2000s, Asia and the Americas have been narrowing the gap and catching up
+
+🔸Europe maintained the highest GDP, while Africa recorded the lowest figures across these metrics.
+
+</details>
+
+<details>
+
+**<summary>Life Expectancy</summary>**
+
+🔸Europe consistently maintained the highest life expectancy globally, while Africa recorded the lowest figures across these metrics.
+
+</details>
+
+<details>
+
+**<summary>Population</summary>**
+
+🔸During the 1950s, there was rapid economic growth globally, with Asia beginning to catch up to Europe
+
+🔸Population growth has been less significant in most regions, except for Asia - starting from the 1950s, Asia experienced exponential population growth, reaching over 70M people.
+
+</details>
+
 
 <br>
 
