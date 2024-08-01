@@ -1,9 +1,11 @@
 
 # Life Expectancy and GDP Per Capita Over 210 Years
 
+<br>
+
 Objective: To create visual representations to better understand the relationship between life expectancy trends and patterns.
 
-<br><br>
+<br>
 
 [Animated version - Youtube](https://www.youtube.com/watch?v=txCmIPfhGic)
 
