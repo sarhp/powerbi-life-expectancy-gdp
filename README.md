@@ -3,11 +3,9 @@
 
 <br>
 
-Objective: To create visual representations to better understand the relationship between life expectancy trends and patterns.
+Objective: Uncover patterns and relationship between life expectancy.
 
 <br>
-
-[Animated version - Youtube](https://www.youtube.com/watch?v=txCmIPfhGic)
 
 ![gdp gif](https://github.com/user-attachments/assets/6485f8a2-0d80-4e72-a486-88adc64a6d1b)
 
