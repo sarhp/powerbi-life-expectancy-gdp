@@ -1,9 +1,7 @@
 
-# Life Expectancy and GDP Per Capita Over 210 Years
+# Life Expectancy and GDP Per Capita Over 210 Years visualisation
 
-<br>
 
-Objective: Uncover patterns and relationship between life expectancy.
 
 <br>
 
