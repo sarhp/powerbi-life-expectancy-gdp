@@ -1,7 +1,5 @@
 
-# Life Expectancy and GDP Per Capita Over 210 Years visualisation
-
-
+# Pwer BI - Life Expectancy and GDP Per Capita Over 210 Years 
 
 <br>
 
