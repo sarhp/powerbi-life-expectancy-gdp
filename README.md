@@ -9,11 +9,7 @@ Objective: Uncover patterns and relationship between life expectancy.
 
 ![gdp gif](https://github.com/user-attachments/assets/6485f8a2-0d80-4e72-a486-88adc64a6d1b)
 
----
-
 <br>
-
-**Static version:**
 
 **1/3. Introduction**
 ![1](https://github.com/user-attachments/assets/77e2dae9-7fd3-4b0e-9449-cb14ce50f8cf)
